@@ -1,0 +1,1 @@
+document.getElementById('g').innerHTML="Hola"

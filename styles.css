@@ -1,0 +1,42 @@
+#hola{
+    color:aqua;
+    text-align:center;
+}
+
+.a-class{
+    color:red;
+}
+
+.nav-bar{
+    text-align:center;
+    padding: 10px;
+}
+
+a:link{
+    color:blue;
+    text-decoration:none;
+    background-color: transparent;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  #Donaciones{
+      text-align: center;
+       color: yellow;
+  }
